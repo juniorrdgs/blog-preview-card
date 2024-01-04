@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-q144PRmnwi)
-- Live Site URL: [Add live site URL here](https://juniorrdgs.github.io/blog-preview-card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-q144PRmnwi)
+- Live Site URL: [Live Site](https://juniorrdgs.github.io/blog-preview-card/)
 
 ## My process
 
